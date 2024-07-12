@@ -1,8 +1,6 @@
-Hi!
+Front End <br>
+Development of a client-server web application for beauty salon, based in Tallinn. <br>
+This project uses an Online Calendar to Book Time with the Selected specialist/services/date with time. <br>
+A dashboard has been created for the specialist with the ability to adjust working hours, select a day off, and also view the reserved time.<br>
+Technologies: React.js, Next.js, Express, Context.
 
-This is web-app marketplace for Telegramm.
-Based on react js, and payment system what i used is stripe.com
-If you want to try demo, you can use my bot in telegram @dcg_js_test_bot.
-
-Regards,
-Daniel
